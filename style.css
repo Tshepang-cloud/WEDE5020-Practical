@@ -1,0 +1,39 @@
+/* styles.css */
+
+/* Basic page styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff8f0;
+    color: #333;
+    padding: 40px;
+    margin: 0;
+}
+
+/* Heading styling */
+h1 {
+    color: #d2691e;
+    margin-bottom: 20px;
+}
+
+/* Contact info section */
+.contact-info {
+    margin-top: 20px;
+    font-size: 1.1rem;
+}
+
+/* Styled external link button */
+a.external-link {
+    display: inline-block;
+    margin-top: 15px;
+    background-color: #ff6f61;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+}
+
+/* Hover effect for link */
+a.external-link:hover {
+    background-color: #e64a19;
+}
