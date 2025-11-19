@@ -20,3 +20,13 @@
     line-height: 1.8;
     margin-bottom: 20px;
 }
+.active-link {
+    color: #d4a017;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+/* Scroll-to-top hover */
+#scrollToTop:hover {
+    background: #ffdd55;
+}
